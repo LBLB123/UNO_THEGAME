@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44e80353-cbea-4c4e-9480-d81435d9a232" name="Changes" comment="UNO">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UNO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UNO.java" afterDir="false" />
-    </list>
+    <list default="true" id="44e80353-cbea-4c4e-9480-d81435d9a232" name="Changes" comment="UNO" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +92,7 @@
       <updated>1681738754187</updated>
       <workItem from="1681738754698" duration="8307000" />
       <workItem from="1681890321022" duration="957000" />
-      <workItem from="1681891308596" duration="903000" />
+      <workItem from="1681891308596" duration="1435000" />
     </task>
     <task id="LOCAL-00001" summary="UNO">
       <created>1681891423370</created>
@@ -104,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681891423370</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="UNO">
+      <created>1681892316884</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681892316884</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
