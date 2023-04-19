@@ -8,7 +8,7 @@ public class UNO {
         String start = scanner.nextLine();
         if("start" .equals(start.toLowerCase())){
 
-            //Spiler Namen Abfrage und Anzahl der Spieler
+            //Spiler Namen Abfrage und Anzahl der Spielerrr
 
             System.out.println("Kurze Information: mind. 2 Player max. 4 Player");
             System.out.println("Enter Player Names:");
